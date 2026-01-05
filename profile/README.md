@@ -1,12 +1,15 @@
 # 👋 Welcome to the DevOps Course held in IFOA in May 2025!
 
-The course is structured in 4 steps:
+The present module is part the apprenticeship program organized by [**IFOA**](https://www.ifoa.it/), and it is structured in 4 steps:
 
-## 🚀 Course Steps
+1. ☁️ [intro-to-cloud-computing](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-to-cloud-computing)
+2. 💻 [learn-docker-fundamentals](https://github.com/IFOA-2025-DevOps-Fundamentals/learn-docker-fundamentals)
+3. 📦 [intro-to-gcp](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-gcp)
+4. 🧰 [intro-to-ci-cd](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-ci-cd)
 
-- ☁️[intro-to-cloud-computing](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-to-cloud-computing)
-- 💻[learn-docker-fundamentals](https://github.com/IFOA-2025-DevOps-Fundamentals/learn-docker-fundamentals)
-- 📦[intro-to-gcp](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-gcp)
-- 🧰[intro-to-ci-cd](https://github.com/IFOA-2025-DevOps-Fundamentals/intro-ci-cd)
+The access to the course material is **private** and **limited to enrolled students**.
+If you are interested in the program, please visit the [**IFOA website**](https://www.ifoa.it/).
+Alternatively, contact the Python lecturer Eng. Matteo Martinelli via its [email](mailto:matteo.martinelli.1991@gmail.com).
 
-## Enjoy your lessons!
+---
+Copyright © 2026 Matteo Martinelli
