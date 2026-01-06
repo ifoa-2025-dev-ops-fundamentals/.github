@@ -12,4 +12,4 @@ If you are interested in the program, please visit the [**IFOA website**](https:
 Alternatively, contact the Python lecturer Eng. Matteo Martinelli via its [email](mailto:matteo.martinelli.1991@gmail.com).
 
 ---
-Copyright © 2026 Matteo Martinelli
+Copyright © 2025 Matteo Martinelli
